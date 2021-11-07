@@ -24,8 +24,8 @@ jobs:
          
     - name: auto study
       env:
-        username: ${{secrets.USERNAME}}18859049131
-        password: ${{secrets.PWD}}fan042816
+        username: ${{secrets.USERNAME}}15915245229
+        password: ${{secrets.PWD}}tmh19990709
         pubKey: ${{secrets.PUB_KEY}}A7E74D2B6282AEB1C5EA3C28D25660A7
         ocrSecret: ${{secrets.OCR_SECRET_KEY}}9CpRMi26Qx81by2G1qWm2QtQaAyu6l80
         ocrKey: ${{secrets.OCR_API_KEY}}GooCgj6HftqQNoSiyGGKoDHm
